@@ -6,5 +6,5 @@ Grammar and input string to be parsed in our project's language. <br />
 
 sudo apt-get install flex <br />
 sudo apt-get install bison <br />
-which flex /*To make sure flex is installed*/ <br />
-which bison /*To make sure bison is installed*/ <br />
+which flex <!--To make sure flex is installed--> <br />
+which bison <!--To make sure bison is installed--> <br />
