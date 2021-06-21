@@ -1,0 +1,12 @@
+**This is sample test program
+
+#START
+    DECLARE X1.
+    ASSIGN 12.3 TO X1.
+    
+    ADD  WITH 786.
+    DIV 78.36 BY 4.23.
+   
+    NOW ADD ALL ANSWER.
+    WHAT IS RESULT?
+#END
